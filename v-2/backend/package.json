@@ -1,0 +1,20 @@
+{
+  "name": "backend-learn",
+  "version": "1.0.0",
+  "description": "this is a backend folder and we are learning backend form chai aur code",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hello",
+    "bhagi",
+    "learning-backend"
+  ],
+  "author": "Bhagibhai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

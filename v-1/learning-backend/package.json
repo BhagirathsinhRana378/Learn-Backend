@@ -1,0 +1,19 @@
+{
+  "name": "new-to-backend",
+  "version": "1.0.0",
+  "description": "i am learning backend to become the backend pro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "motabhai",
+    "bhagi"
+  ],
+  "author": "Vasudev Shree Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
