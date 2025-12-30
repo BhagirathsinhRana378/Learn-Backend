@@ -7,6 +7,10 @@ app.get('/', (req, res) => {
   res.send('<h1>Hello World!</h1>')
 })
 
+app.get('/home', (req,res) => {
+  res.send("hello your in home page")
+})
+
 app.get('/about',(req,res) => {
     res.send("hii i am bhagrathsinh rana")
 })
